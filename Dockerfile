@@ -1,5 +1,5 @@
 # Node Base Image
-FROM alpine:3.21
+FROM node:12.2.0-alpine
 
 #Working Directry
 WORKDIR /app
